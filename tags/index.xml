@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on</title><link>https://gambos.github.io/HaitianWang.github.io/tags/</link><description>Recent content in Tags on</description><generator>Hugo -- 0.133.0</generator><language>en-us</language><atom:link href="https://gambos.github.io/HaitianWang.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on </title>
+    <link>https://gambos.github.io/HaitianWang.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Aug 2024 11:01:36 +0200</lastBuildDate>
+    <atom:link href="https://gambos.github.io/HaitianWang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标签1</title>
+      <link>https://gambos.github.io/HaitianWang.github.io/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <pubDate>Sat, 24 Aug 2024 11:01:36 +0200</pubDate>
+      <guid>https://gambos.github.io/HaitianWang.github.io/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>标签2</title>
+      <link>https://gambos.github.io/HaitianWang.github.io/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <pubDate>Sat, 24 Aug 2024 11:01:36 +0200</pubDate>
+      <guid>https://gambos.github.io/HaitianWang.github.io/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://gambos.github.io/HaitianWang.github.io/tags/about/</link>
+      <pubDate>Sat, 24 Aug 2024 09:56:46 +0200</pubDate>
+      <guid>https://gambos.github.io/HaitianWang.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}" #标题
-date: {{ .Date }} #创建时间
-lastmod: {{ .Date }} #更新时间
-author: ["Sulv"] #作者
+title: "About" #标题
+date: 2024-08-24T11:01:36+02:00 #创建时间
+lastmod: 2024-08-24T11:01:36+02:00 #更新时间
+author: ["Yao"] #作者
 categories: 
 - 分类1
 - 分类2
@@ -25,3 +25,15 @@ cover:
     alt: ""
     relative: false
 ---
+
+![pic](me.png)
+
+I'm a Theoretical Computer Science (TCS) phd student in [The Institute for Logic, Language and Computation (ILLC)](https://www.illc.uva.nl/AbouttheILLC/About-the-ILLC/).
+
+In 2022, I graduated from LSE with a M.S. in Logic.
+
+I like bouldering, ping-pong, skateboarding and smashing drum set at my spare time. Playing not bad.
+
+My girlfriend has been with me for 3 months. We all settled down in Amsterdam, Netherlands.
+
+And my favourite character is Snoopy. We look alike!
